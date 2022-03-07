@@ -6,4 +6,4 @@ Script เพิ่ม ลบ แก้ไข ค้นหา และออก
 ## วิธีการติดตั้ง
 อ่านรายละเอียดเพิ่มเติม [https://puwanai.com]
 
-[puwanai.com]: https://puwanai.com/software-php-mysql-css-framework-bootstrap-5.html
+[https://puwanai.com]: https://puwanai.com/software-php-mysql-css-framework-bootstrap-5.html
